@@ -24,3 +24,4 @@
 # Your edits
 
 Replace this text and add a couple lines of text to introduce yourself and say what you did over the summer.
+Hi I'm Fanyi. I'm a computer science and psychological science double-major graduating this December. This summer, I worked in a cognitive psychology lab at Northwestern University. The lab focuses on analogy processing in adults and children. More specifically, I worked on a project investigating verb metaphor processing and a lexical survey comparing verbs and nouns in terms of their word senses and metaphoricity. I was able to use my programming skills to help the lab utilize data from online dictionary APIs (such as Merriam Webster's and the Oxford Dictionary) to collect larger samples of words to be analyzed and prep stimuli to be used in behavioral studies. 
